@@ -1,0 +1,10 @@
+global.curr_line = 0;
+line = "";
+typectr = 0;
+ready = false;
+done = false;
+alpha = 1;
+hue_ctr = 0;
+caretctr = 0;
+global.just_died = false;
+charinst = instance_create_depth(1000, 1000, -200, Obj_PlayerDlg);

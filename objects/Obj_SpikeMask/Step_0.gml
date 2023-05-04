@@ -1,0 +1,1 @@
+image_blend = (image_blend == c_red) ? c_purple : c_red;

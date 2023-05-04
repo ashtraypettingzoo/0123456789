@@ -1,0 +1,1 @@
+global.lines = ["almost there!!!", "just gotta b REAL\ncareful...", "one slip and my\nbeautiful coat of fur\nis RUINED....LOL"];

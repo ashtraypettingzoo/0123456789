@@ -1,0 +1,1 @@
+global.lines = ["i cant wait 2 deliver\nthis lovely cake 2 my\nwonderful friend\nSHEMYAZA... :D", "mmmm yummy nummy....\n*droolzz*", "what am i here 4 again...??"];

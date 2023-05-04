@@ -1,0 +1,1 @@
+global.lines = ["this is getting tough!!!\nwhEhw....", "did i leave my oven on?\ni smell smoke...", "....\nxDDDD lol jk"];
